@@ -6,4 +6,8 @@ function myFunction(x) {
 
 document.getElementById("toup").addEventListener("click", function () {
     window.scrollTo(0, 0);
+<<<<<<< HEAD
 });
+=======
+});
+>>>>>>> 5b822c5 (19-05-2023)
